@@ -1,4 +1,5 @@
 # MyRepo
-The is Repositry .
--Add File.txt .
+The is Repositry Done.
 -Add issue
+
+-Modifed Readme file.
